@@ -2,6 +2,8 @@
  
 Takehome message: **Use git**
 
+To finish hands-on exercise, you can consult this repository https://github.com/filip-jezek/GitTraining2024 where I followed all the steps. All questions will be resolved at fjezek@umich.edu, git-related are prioritized :)
+
 ## Assignment
 Clone https://github.com/beards-lab/Phys520
 
